@@ -21,10 +21,12 @@ git clone [https://github.com/usuario/nombre-del-proyecto.git](https://github.co
 # Ejercicio
 - haz lo anterior con lo siguiente (colocando una captura de pantalla en cada comando):
 
-- git init
-- git add .
-- git commit
-- git branch gh-pages
-- git checkout gh-pages
-- git remote add origin https://github.com....
-- git push origin
+
+
+- git init Inicia git en la ubicacion actual
+- git add . agrega todos los cambios al area de preparacion
+- git commit crea un comentario en todos los cambis
+- git branch gh-pages crea una rama
+- git checkout gh-pages se cambia a la rama seleccionada 
+- git remote add origin https://github.com.... conecta un repositorio
+- git push origin se suben los cambios
